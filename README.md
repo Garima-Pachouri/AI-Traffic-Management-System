@@ -25,7 +25,7 @@ This project focuses on improving traffic signal timing using vehicle detection.
 I worked on understanding the detection logic and implementing a basic version of the system using Python and OpenCV.
 
 ## Project Structure
-AI-Traffic-Management-System/
+AI-Traffic-Management-System/ 
  ├── main.py
  ├── README.md
 
